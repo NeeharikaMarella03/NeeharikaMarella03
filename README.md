@@ -1,6 +1,7 @@
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)] -->
 <h1 align="center">Hi 👋, I'm Neeharika Marella</h1>
 <h3 align="center">Filled with enthusiasm to master web development and become a creative web developer</h3>
-
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeharikamarella03&label=Profile%20views&color=0e75b6&style=flat" alt="neeharikamarella03" /> </p>
 
 - 🔭 I’m currently working on enhancing through **js_projects**
